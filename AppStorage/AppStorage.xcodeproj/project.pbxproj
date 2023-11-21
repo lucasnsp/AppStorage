@@ -11,6 +11,7 @@
 		461BB6F62B0CF74E00E2BAA1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461BB6F52B0CF74E00E2BAA1 /* ContentView.swift */; };
 		461BB6F82B0CF74F00E2BAA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 461BB6F72B0CF74F00E2BAA1 /* Assets.xcassets */; };
 		461BB6FB2B0CF74F00E2BAA1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 461BB6FA2B0CF74F00E2BAA1 /* Preview Assets.xcassets */; };
+		461BB7022B0CF7C600E2BAA1 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461BB7012B0CF7C600E2BAA1 /* AppStorageBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		461BB6F52B0CF74E00E2BAA1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		461BB6F72B0CF74F00E2BAA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		461BB6FA2B0CF74F00E2BAA1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		461BB7012B0CF7C600E2BAA1 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				461BB6F32B0CF74E00E2BAA1 /* AppStorageApp.swift */,
 				461BB6F52B0CF74E00E2BAA1 /* ContentView.swift */,
+				461BB7012B0CF7C600E2BAA1 /* AppStorageBootcamp.swift */,
 				461BB6F72B0CF74F00E2BAA1 /* Assets.xcassets */,
 				461BB6F92B0CF74F00E2BAA1 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				461BB6F62B0CF74E00E2BAA1 /* ContentView.swift in Sources */,
 				461BB6F42B0CF74E00E2BAA1 /* AppStorageApp.swift in Sources */,
+				461BB7022B0CF7C600E2BAA1 /* AppStorageBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
