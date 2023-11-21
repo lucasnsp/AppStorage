@@ -13,6 +13,7 @@
 		461BB6FB2B0CF74F00E2BAA1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 461BB6FA2B0CF74F00E2BAA1 /* Preview Assets.xcassets */; };
 		461BB7022B0CF7C600E2BAA1 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461BB7012B0CF7C600E2BAA1 /* AppStorageBootcamp.swift */; };
 		461BB7052B0CFD1D00E2BAA1 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461BB7042B0CFD1D00E2BAA1 /* IntroView.swift */; };
+		461BB7072B0CFF3D00E2BAA1 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461BB7062B0CFF3D00E2BAA1 /* OnboardingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		461BB6FA2B0CF74F00E2BAA1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		461BB7012B0CF7C600E2BAA1 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		461BB7042B0CFD1D00E2BAA1 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		461BB7062B0CFF3D00E2BAA1 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				461BB7042B0CFD1D00E2BAA1 /* IntroView.swift */,
+				461BB7062B0CFF3D00E2BAA1 /* OnboardingView.swift */,
 			);
 			path = OnboardingViews;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				461BB6F62B0CF74E00E2BAA1 /* ContentView.swift in Sources */,
 				461BB7052B0CFD1D00E2BAA1 /* IntroView.swift in Sources */,
 				461BB6F42B0CF74E00E2BAA1 /* AppStorageApp.swift in Sources */,
+				461BB7072B0CFF3D00E2BAA1 /* OnboardingView.swift in Sources */,
 				461BB7022B0CF7C600E2BAA1 /* AppStorageBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
